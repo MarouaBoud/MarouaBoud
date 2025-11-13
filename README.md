@@ -59,7 +59,7 @@ My work focused on building **real-time data pipelines**, **forecasting models**
 
 ---
 
-###  **Stealth Power – Data & ML Engineer (Internship)**  
+###  **Stealth Power – Data & ML Engineer **  
  *May 2024 – Nov 2024 (Texas, US – On-site)*  
  *AWS, Python, Streamlit, PostgreSQL, XGBoost, SARIMAX, REST APIs, Git, Node.js*
 
@@ -73,7 +73,7 @@ During my internship at Stealth Power, I worked on developing and integrating pr
 
 ---
 
-###  **LCL Bank – Data Engineer (Apprenticeship)**  
+###  **LCL Bank – Data Engineer **  
  *Sep 2022 – Sep 2024 (Villejuif, France – On-site)*  
  *Dataiku, Python, SAS, SQL, Teradata, Shell, Jira, ETL, Data Analytics*
 
