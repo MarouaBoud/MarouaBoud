@@ -8,7 +8,7 @@ My work blends the precision of **financial data engineering** with the innovati
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - **End-to-End Machine Learning Systems** — from data collection and feature engineering to model training, deployment, and MLOps.  
 - **Data Engineering** — scalable ETL pipelines, data governance frameworks, and real-time analytics tools.  
@@ -18,7 +18,7 @@ My work blends the precision of **financial data engineering** with the innovati
 
 ---
 
-## 🧠 Core Stack
+## Core Stack
 
 **Languages:** Python, SQL, Solidity, TypeScript  
 **ML & Data:** Scikit-Learn, TensorFlow, Pandas, MLflow, Dataiku, XGBoost  
@@ -28,7 +28,7 @@ My work blends the precision of **financial data engineering** with the innovati
 
 ---
 
-## 🔒 Note on Confidential Projects
+## Note on Confidential Projects
 
 This GitHub represents my **personal** and **open-source** work.  
 Due to client confidentiality and data sensitivity, my professional projects — including those for **Stealth Power** and **LCL Bank** — are hosted on private company repositories.  
@@ -37,11 +37,11 @@ To maintain transparency, I’ve included summaries below covering **architectur
 
 ---
 
-## 💼 Professional Project Summaries
+## Professional Project Summaries
 
-### ☀️ **Stealth Power – Data & Machine Learning Engineer**  
-📅 *May 2024 – Present (Austin, TX – Remote)*  
-🧰 *Python, AWS, Google Cloud, PostgreSQL, Streamlit, XGBoost, Deep Learning, Node.js, Git, Bash, UML, RESTful APIs, MLflow*
+###  **Stealth Power – Data & Machine Learning Engineer**  
+ *May 2024 – Present (Austin, TX – Remote)*  
+ *Python, AWS, Google Cloud, PostgreSQL, Streamlit, XGBoost, Deep Learning, Node.js, Git, Bash, UML, RESTful APIs, MLflow*
 
 **Overview:**  
 At Stealth Power, I designed and deployed **machine learning and data systems** to optimize solar energy production and performance.  
@@ -59,9 +59,9 @@ My work focused on building **real-time data pipelines**, **forecasting models**
 
 ---
 
-### 🧠 **Stealth Power – Data & ML Engineer (Internship)**  
-📅 *May 2024 – Nov 2024 (Texas, US – On-site)*  
-🧰 *AWS, Python, Streamlit, PostgreSQL, XGBoost, SARIMAX, REST APIs, Git, Node.js*
+###  **Stealth Power – Data & ML Engineer (Internship)**  
+ *May 2024 – Nov 2024 (Texas, US – On-site)*  
+ *AWS, Python, Streamlit, PostgreSQL, XGBoost, SARIMAX, REST APIs, Git, Node.js*
 
 **Overview:**  
 During my internship at Stealth Power, I worked on developing and integrating predictive models and APIs for solar energy analytics.
@@ -73,9 +73,9 @@ During my internship at Stealth Power, I worked on developing and integrating pr
 
 ---
 
-### 🏦 **LCL Bank – Data Engineer (Apprenticeship)**  
-📅 *Sep 2022 – Sep 2024 (Villejuif, France – On-site)*  
-🧰 *Dataiku, Python, SAS, SQL, Teradata, Shell, Jira, ETL, Data Analytics*
+###  **LCL Bank – Data Engineer (Apprenticeship)**  
+ *Sep 2022 – Sep 2024 (Villejuif, France – On-site)*  
+ *Dataiku, Python, SAS, SQL, Teradata, Shell, Jira, ETL, Data Analytics*
 
 **Overview:**  
 As part of LCL’s **Data Management Office**, I focused on **data governance, automation**, and **security** within regulated financial data environments.
@@ -89,7 +89,7 @@ As part of LCL’s **Data Management Office**, I focused on **data governance, a
 
 ---
 
-## 🧩 Currently Exploring
+##  Currently Exploring
 
 - **AI integration** with decentralized finance and governance systems  
 - **Real-time ML pipelines** for DeFi   
@@ -97,24 +97,24 @@ As part of LCL’s **Data Management Office**, I focused on **data governance, a
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
-🌐 **Portfolio:** 
-💼 **LinkedIn:** [linkedin.com/in/maroua-boudoukha]([https://linkedin.com/in/maroua-boudoukha](https://www.linkedin.com/in/maroua-boudoukha)  
-🧩 **GitHub:** [github.com/MarouaBoud](https://github.com/MarouaBoud)  
-✉️ **Email:** [maroua@maroua-boudoukha.com](mailto:maroua@maroua-boudoukha.com)
-
----
-
-## 📌 Future Additions
-
-- 🧠 Blockchain & Web3 Projects — AI-integrated dApps and smart contract analytics  
-- 🔧 Open Source ML Tools — model deployment templates and SDKs  
-- 🏆 Hackathon Projects — AI + DeFi data innovation  
+ **Portfolio:** 
+ **LinkedIn:** [linkedin.com/in/maroua-boudoukha]([https://linkedin.com/in/maroua-boudoukha](https://www.linkedin.com/in/maroua-boudoukha)  
+ **GitHub:** [github.com/MarouaBoud](https://github.com/MarouaBoud)  
+ **Email:** [maroua@maroua-boudoukha.com](mailto:maroua@maroua-boudoukha.com)
 
 ---
 
-### 🪪 Personal Note
+##  Future Additions
+
+-  Blockchain & Web3 Projects — AI-integrated dApps and smart contract analytics  
+-  Open Source ML Tools — model deployment templates and SDKs  
+-  Hackathon Projects — AI + DeFi data innovation  
+
+---
+
+###  Personal Note
 This is my **personal GitHub account**.  
 Projects developed under professional or freelance contracts are hosted on private company GitHub organizations due to confidentiality.
 
