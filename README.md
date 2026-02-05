@@ -1,6 +1,6 @@
-# Hi, I’m **Maroua BOUDOUKHA**
+# Hi, I’m **Maroua B.**
 
-**Data & Machine Learning Engineer | Blockchain & Fintech Specialist**
+**AI & Machine Learning Engineer | Blockchain & Fintech Specialist**
 
 I design and deploy intelligent, data-driven systems that bridge **machine learning**, **AI agents**, **data engineering**, and **blockchain technologies**.
 
