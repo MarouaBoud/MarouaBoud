@@ -7,7 +7,13 @@ I design and deploy intelligent, data-driven systems that bridge **machine learn
 My work blends the precision of **financial data engineering** with the innovation of **AI and decentralized systems** — creating solutions that are **scalable**, **secure**, and **production-ready**.
 
 ---
+## 📊 Profile Activity
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarouaBoud&show_icons=true&theme=dark&hide=contribs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaBoud&layout=compact&theme=dark)
+
+---
 ## What I Do
 
 - **End-to-End Machine Learning Systems** — from data collection and feature engineering to model training, deployment, and MLOps.  
