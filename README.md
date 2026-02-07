@@ -9,9 +9,14 @@ My work blends the precision of **financial data engineering** with the innovati
 ---
 ## 📊 Profile Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarouaBoud&show_icons=true&theme=dark&hide=contribs,issues)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarouaBoud&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaBoud&layout=compact&theme=dark)
+
+</div>
 
 ---
 ## What I Do
