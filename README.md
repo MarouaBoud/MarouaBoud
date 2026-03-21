@@ -1,4 +1,19 @@
-# Hi, I’m **Maroua B.**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=7C5CFC&center=true&vCenter=true&multiline=true&width=700&height=60&lines=ml+%2F+ai+engineer+%E2%80%94+web3+builder+%E2%80%94+independent+contractor;production+rag+%C2%B7+agentic+workflows+%C2%B7+multi-agent+systems+%C2%B7+defi+infra)](https://github.com/MarouaBoud)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:00e5a0&height=200&section=header&text=Maroua%20Boudoukha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20intelligent%20systems%20for%20decentralized%20environments&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%"/>
+
+<p>
+  <a href="https://linkedin.com/in/maroua-boudoukha"><img src="https://img.shields.io/badge/LinkedIn-maroua--boudoukha-7C5CFC?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maroua@maroua-boudoukha.com"><img src="https://img.shields.io/badge/Email-contact-00e5a0?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ETHGlobal-Winner%20%C3%97%20multi-ff6b6b?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HEC%20Business%20Game-2025%20Winner-f5a623?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WorldBuild-Hackathon%20Winner-00e5a0?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=MarouaBoud&color=7c5cfc&style=flat-square&label=profile+views"/>
+</p>
+
+</div>
 
 **AI & Machine Learning Engineer | Blockchain & Fintech Specialist**
 
