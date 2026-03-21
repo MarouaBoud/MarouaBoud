@@ -15,6 +15,84 @@
 
 </div>
 
+
+---
+
+## ⚡ Currently shipping
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[Cairn Protocol](https://github.com/MarouaBoud/cairn-protocol)**
+> Standardized checkpoint & recovery for AI agents.
+
+Six-state machine · three-class failure taxonomy · ERC proposal sketch. Tackles the silent-failure problem in production multi-agent systems at scale.
+
+`Python` `Agent infra` `ERC`
+
+</td>
+<td width="33%" valign="top">
+
+**[Lagartha](https://github.com/MarouaBoud/lagartha)**
+> Autonomous AI agent — on-chain identity, live X account.
+
+Deployed on Base Sepolia. OpenClaw on AWS EC2, agency-agents as specialist tool library, LiteLLM for model routing.
+
+`OpenClaw` `Base` `AWS EC2` `LiteLLM`
+
+</td>
+<td width="33%" valign="top">
+
+**[eXpress402 / Sentifi](https://github.com/MarouaBoud/express402)**
+> Paid MCP server infra for AI agents.
+
+Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo autonomous trading agent on x402 v2.
+
+`MCP` `x402 v2` `Yellow Network` `Circle`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Proof of work
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  HACKATHONS & COMPETITIONS                                                   ║
+║                                                                              ║
+║  ETHGlobal — winner × multiple events                                        ║
+║    ↳ San Francisco · Prague · Cannes · Brussels · Singapore · Bangkok        ║
+║    ↳ Buenos Aires (ETHGlobal + Devconnect) · ETHGlobal Virtual × multiple   ║
+║  WorldBuild Hackathon — winner (WorldBuild 1)                                ║
+║  HEC Business Game 2025 — winner                                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  PRODUCTION AI SYSTEMS                                                       ║
+║                                                                              ║
+║  Xerberus (DeFi risk rating — live in prod) — independent contractor         ║
+║    ↳ Production RAG: ChromaDB on GCP Cloud Run · BGE cross-encoder reranking ║
+║    ↳ 3-stage retrieval: retrieve 20 → rerank 5 → generate                   ║
+║    ↳ Confidence-based query routing · Firestore as dispute event source      ║
+║                                                                              ║
+║  Stealth Power (solar energy AI — Austin TX) — ML & Data Engineer           ║
+║    ↳ Real-time solar monitoring system: REST API + Streamlit dashboards      ║
+║    ↳ Multi-output deep learning model for energy production forecasting      ║
+║    ↳ Deployed ML pipeline as REST API with SDK for production integration    ║
+║    ↳ Built AI agents + RAG systems on solar data (natural language queries)  ║
+║    ↳ Hybrid forecasting: SARIMAX + XGBoost for GHI & consumption prediction ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  PRODUCTION DATA ENGINEERING                                                 ║
+║                                                                              ║
+║  LCL Bank (regulated fintech — Paris, 2 years) — Data Engineer              ║
+║    ↳ Automated data access review workflows (Dataiku · SAS · Teradata)      ║
+║    ↳ Compliance, risk & audit data pipelines for regulatory reporting        ║
+║    ↳ Migrated legacy SAS workflows to modern Dataiku pipelines               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
 **AI & Machine Learning Engineer | Blockchain & Fintech Specialist**
 
 I design and deploy intelligent, data-driven systems that bridge **machine learning**, **AI agents**, **data engineering**, and **blockchain technologies**.
