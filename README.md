@@ -158,6 +158,153 @@ Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo a
 </details>
 
 ---
+
+## 📌 Selected projects
+
+<details open>
+<summary><b>🔬 FinVerifyAI — AI-powered financial misinformation detection</b></summary>
+<br/>
+
+Real-time trust layer for social media financial content. Six-stage Marathon Agent pipeline (Perception → Extraction → Reasoning → Grounding → Synthesis → Verification) with transparent reasoning traces. Verified against SEC, FINRA, IRS, FTC. Creator credibility scoring, coordinated pattern detection, live stream monitoring.
+
+**Stack:** `TypeScript` `Next.js 15` `tRPC` `Gemini 3 Flash` `PostgreSQL` `Redis (Upstash)` `Plasmo` `Railway`
+
+[![Live demo](https://img.shields.io/badge/Live%20demo-finverify--indol.vercel.app-7C5CFC?style=flat-square)](https://finverify-indol.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-MarouaBoud%2Ffinverify-00e5a0?style=flat-square&logo=github)](https://github.com/MarouaBoud/finverify)
+
+</details>
+
+<details>
+<summary><b>✅ Aphasia — Verified reviews protocol on Hedera (ETHGlobal)</b></summary>
+<br/>
+
+Web3 trust layer for verified product reviews. Three-tier verification system (email → social → biometric via Self Protocol). Merkle tree batching achieves 99% cost reduction on-chain. Immutable review ordering via Hedera Consensus Service, decentralized content on IPFS.
+
+**Stack:** `TypeScript` `Node.js` `Express` `Hedera HCS` `Solidity` `IPFS (Pinata)` `Prisma` `PostgreSQL`
+
+[![Org](https://img.shields.io/badge/Org-Aphasia--ETH-7C5CFC?style=flat-square&logo=github)](https://github.com/Aphasia-ETH)
+[![Backend](https://img.shields.io/badge/Backend-Aphasia--ETH%2FAphasia--Backend-00e5a0?style=flat-square&logo=github)](https://github.com/Aphasia-ETH/Aphasia-Backend)
+[![Frontend](https://img.shields.io/badge/Frontend-Aphasia--ETH%2FAphasia--Frontend-00e5a0?style=flat-square&logo=github)](https://github.com/Aphasia-ETH/Aphasia-Frontend)
+
+</details>
+
+<details>
+<summary><b>📈 Beavii v2 — AI-powered multi-chain ETF manager on Flow</b></summary>
+<br/>
+
+Decentralized ETF creation and management on Flow EVM. AI autonomous agent powered by Gemini handles portfolio rebalancing, cross-chain bridging, and market analysis. Cross-chain swaps via 1inch Fusion+. Smart contract suite deployed on Flow EVM Testnet.
+
+**Stack:** `TypeScript` `Next.js 15` `Flow EVM` `Solidity` `1inch Fusion+` `Gemini AI` `Privy` `Ethers.js` `Bun`
+
+[![Repo](https://img.shields.io/badge/Repo-MarouaBoud%2FBeavii--v2-00e5a0?style=flat-square&logo=github)](https://github.com/MarouaBoud/Beavii-v2)
+
+</details>
+
+<details>
+<summary><b>🎮 RexDeus — AI agent orchestration inside Unreal Engine 5</b></summary>
+<br/>
+
+MotherAI orchestration layer driving real-time in-game agent decision-making. Custom AI agent with live game state awareness, JS/C++ hybrid architecture, GitHub Actions CI.
+
+**Stack:** `JavaScript` `C++` `C#` `Unreal Engine 5`
+
+[![Repo](https://img.shields.io/badge/Repo-MarouaBoud%2FRexDeus-00e5a0?style=flat-square&logo=github)](https://github.com/MarouaBoud/RexDeus)
+
+</details>
+
+---
+
+## 🔭 On the frontier
+
+```
+↳ Agentic AI systems with persistent memory and cross-agent coordination
+↳ Real-time ML pipelines for DeFi risk and liquidity management
+↳ Zero-knowledge proofs (ZKPs) for privacy-preserving on-chain analytics
+↳ AI × Web3 payment rails — autonomous agents that pay for their own compute
+```
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarouaBoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaBoud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarouaBoud&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarouaBoud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌍 On the ground
+
+**In person — conferences & residencies**
+
+| Event | Location | Type |
+|---|---|---|
+| ETHGlobal San Francisco | 🇺🇸 San Francisco | Hackathon |
+| Edge City Esmeralda | 🇺🇸 San Francisco | Residency |
+| ETHGlobal Prague | 🇨🇿 Prague | Hackathon |
+| ETHGlobal Cannes | 🇫🇷 Cannes | Hackathon |
+| EthCC Cannes | 🇫🇷 Cannes | Conference |
+| ETHGlobal Brussels | 🇧🇪 Brussels | Hackathon |
+| ETHGlobal Singapore | 🇸🇬 Singapore | Hackathon |
+| ETHGlobal Bangkok | 🇹🇭 Bangkok | Hackathon |
+| ETHGlobal + Devconnect Buenos Aires | 🇦🇷 Buenos Aires | Hackathon + Conference |
+| Edge City Patagonia | 🇦🇷 Argentina | Residency — World Fellow |
+
+**Virtually**
+
+| Event | Result |
+|---|---|
+| ETHGlobal Virtual Hackathons | Multiple participations |
+| WorldBuild 1 | 🏆 Winner |
+
+**Base:** Paris 🇫🇷 — SheFi community member
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C5CFC?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maroua-boudoukha)
+[![Email](https://img.shields.io/badge/Email-maroua%40maroua--boudoukha.com-00e5a0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maroua@maroua-boudoukha.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MarouaBoud-181717?style=for-the-badge&logo=github)](https://github.com/MarouaBoud)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarouaBoud/MarouaBoud/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarouaBoud/MarouaBoud/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/MarouaBoud/MarouaBoud/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:00e5a0&height=100&section=footer" width="100%"/>
+
+
+
+
+
+
 ## 📊 Profile Activity
 
 
