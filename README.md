@@ -48,7 +48,7 @@ Six-stage Marathon Agent pipeline with transparent reasoning traces. Verified ag
 </td>
 <td width="33%" valign="top">
 
-**[eXpress402 / Sentifi](https://github.com/MarouaBoud/express402](https://github.com/vhspace/eXpress402))**
+**[eXpress402 / Sentifi](https://github.com/vhspace/eXpress402)**
 > Paid MCP server infra for AI agents.
 
 Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo autonomous trading agent on x402 v2.
