@@ -31,15 +31,16 @@ Six-state machine · three-class failure taxonomy · ERC proposal sketch. Tackle
 
 `Python` `Agent infra` `ERC`
 
+
 </td>
 <td width="33%" valign="top">
 
-**[Lagartha](https://github.com/MarouaBoud/lagartha)**
-> Autonomous AI agent — on-chain identity, live X account.
+**[FinVerifyAI](https://github.com/MarouaBoud/finverify)**
+> AI-powered financial misinformation detection.
 
-Deployed on Base Sepolia. OpenClaw on AWS EC2, agency-agents as specialist tool library, LiteLLM for model routing.
+Six-stage Marathon Agent pipeline with transparent reasoning traces. Verified against SEC, FINRA, IRS, FTC. Creator credibility scoring + live stream monitoring.
 
-`OpenClaw` `Base` `AWS EC2` `LiteLLM`
+`TypeScript` `Next.js 15` `Gemini` `tRPC`
 
 </td>
 <td width="33%" valign="top">
