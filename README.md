@@ -98,11 +98,64 @@ Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo a
 </details>
 
 ---
-**AI & Machine Learning Engineer | Blockchain & Fintech Specialist**
+---
 
-I design and deploy intelligent, data-driven systems that bridge **machine learning**, **AI agents**, **data engineering**, and **blockchain technologies**.
+## 🧠 Stack
 
-My work blends the precision of **financial data engineering** with the innovation of **AI and decentralized systems** — creating solutions that are **scalable**, **secure**, and **production-ready**.
+<div align="center">
+
+### AI · Agents · RAG
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D4A017?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C5CFC?style=flat-square&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-00e5a0?style=flat-square&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### ML · Data Engineering
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Web3 · DeFi · Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![Hedera](https://img.shields.io/badge/Hedera-222222?style=flat-square&logo=hedera&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-00EF8B?style=flat-square&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Infra · Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>Full RAG taxonomy — shipped in production</b></summary>
+<br/>
+
+| Type | Where I've used it |
+|---|---|
+| **Naive RAG** | Baseline systems, fast prototyping |
+| **HyDE** | Query expansion for sparse retrieval |
+| **Agentic RAG** | Xerberus DeFi system |
+| **Corrective RAG** | Self-healing pipelines with BGE reranker |
+| **Adaptive RAG** | Confidence-based routing at Xerberus |
+| **Hybrid RAG** | Dense + sparse combined retrieval |
+| **Graph RAG** | Knowledge graph integration |
+
+</details>
 
 ---
 ## 📊 Profile Activity
