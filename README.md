@@ -59,44 +59,18 @@ Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo a
 
 ## 🏆 Proof of work
 
-<details open>
-<summary><b>🥇 Hackathons & competitions</b></summary>
-<br/>
+![ETHGlobal](https://img.shields.io/badge/ETHGlobal-Winner%20%C3%97%20multi-ff6b6b?style=flat-square&logo=ethereum&logoColor=white)
+![WorldBuild](https://img.shields.io/badge/WorldBuild%201-Winner-00e5a0?style=flat-square)
+![HEC](https://img.shields.io/badge/HEC%20Business%20Game%202025-Winner-f5a623?style=flat-square)
 
-- **ETHGlobal** — winner × multiple · San Francisco · Prague · Cannes · Brussels · Singapore · Bangkok · Buenos Aires + Virtual
-- **WorldBuild Hackathon 1** — winner
-- **HEC Business Game 2025** — winner
+**Xerberus** `live · DeFi risk · independent contractor`
+→ Production RAG · ChromaDB on GCP · BGE reranking · 3-stage retrieval · confidence routing
 
-</details>
+**Stealth Power** `solar energy AI · ML & Data Engineer`
+→ Deep learning forecasting · REST API + SDK · AI agents + RAG · SARIMAX+XGBoost
 
-<details open>
-<summary><b>⚙️ Production AI systems</b></summary>
-<br/>
-
-**Xerberus** — DeFi risk rating · independent contractor · live in prod
-- Production RAG: ChromaDB on GCP Cloud Run · BGE cross-encoder reranking
-- 3-stage retrieval: retrieve 20 → rerank 5 → generate
-- Confidence-based query routing · Firestore as dispute event source
-
-**Stealth Power** — solar energy AI · Austin TX · ML & Data Engineer
-- Multi-output deep learning model for energy production forecasting
-- Deployed ML pipeline as REST API with SDK for production integration
-- AI agents + RAG on solar data enabling natural language queries
-- Hybrid forecasting: SARIMAX + XGBoost for GHI & consumption
-
-</details>
-
-<details>
-<summary><b>🗄️ Production data engineering</b></summary>
-<br/>
-
-**LCL Bank** — regulated fintech · Paris · 2 years · Data Engineer
-- Automated data access review workflows (Dataiku · SAS · Teradata)
-- Compliance, risk & audit data pipelines for regulatory reporting
-- Migrated legacy SAS workflows to modern Dataiku pipelines
-
-</details>
-
+**LCL Bank** `regulated fintech · Data Engineer · 2 years`
+→ Compliance pipelines · Dataiku · SAS → modern migration · audit automation
 ---
 **AI & Machine Learning Engineer | Blockchain & Fintech Specialist**
 
