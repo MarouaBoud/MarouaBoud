@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=7C5CFC&center=true&vCenter=true&multiline=true&width=700&height=60&lines=ml+%2F+ai+engineer+%E2%80%94+web3+builder+%E2%80%94+independent+contractor;production+rag+%C2%B7+agentic+workflows+%C2%B7+multi-agent+systems+%C2%B7+defi+infra)](https://github.com/MarouaBoud)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:00e5a0&height=200&section=header&text=Maroua%20Boudoukha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20intelligent%20systems%20for%20decentralized%20environments&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:00e5a0&height=200&section=header&text=Maroua%20Boud&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20intelligent%20systems%20for%20decentralized%20environments&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%"/>
 
 
 <p>
