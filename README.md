@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Edge%20City-World%20Fellow-7C5CFC?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=MarouaBoud&color=7c5cfc&style=flat-square&label=profile+views"/>
 </p>
-
+<p align="center"><strong>Head of AI @ <a href="https://xerberus.io">Xerberus</a></strong> · AI × DeFi risk infrastructure </p>
 </div>
 
 
