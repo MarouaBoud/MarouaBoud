@@ -23,15 +23,29 @@
 
 ## ⚡ Currently shipping
 
-**[Swarm Proof](https://github.com/swarmproof)** — trust infrastructure for the agent economy. Open-source org, Apache-2.0.
+<div align="center">
 
-Flagship: **[CAIRN Protocol](https://github.com/swarmproof/cairn-protocol)** — standardized checkpoint & recovery for AI agents. Six-state machine · three-class failure taxonomy · ERC proposal · live on Base Sepolia · 408 tests, SDK + CLI + subgraph.
+**[Swarm Proof](https://github.com/swarmproof)** · trust infrastructure for the agent economy
 
-Plus a seven-tool agent-reliability stack: [stampede](https://github.com/swarmproof/stampede) (adversarial agent "wind tunnel") · [mockworld](https://github.com/swarmproof/mockworld) (synthetic internet of mock MCP servers) · [mcp-probe](https://github.com/swarmproof/mcp-probe) (CI suite for MCP servers) · [costbomb](https://github.com/swarmproof/costbomb) (denial-of-wallet fuzzing) · [exactly-once](https://github.com/swarmproof/exactly-once) (idempotency middleware) · [agent-postmortems](https://github.com/swarmproof/agent-postmortems) (incident DB + standard) · [awesome-agent-reliability](https://github.com/swarmproof/awesome-agent-reliability) (field map).
+[![Org](https://img.shields.io/badge/Org-swarmproof-7C5CFC?style=flat-square&logo=github)](https://github.com/swarmproof)
+[![Focus](https://img.shields.io/badge/Focus-agent%20reliability-00e5a0?style=flat-square)](https://github.com/swarmproof)
+[![Open source](https://img.shields.io/badge/Open%20source-Apache--2.0%20%C2%B7%20GPL%20%C2%B7%20MIT-f5a623?style=flat-square)](https://github.com/swarmproof)
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**[CAIRN Protocol](https://github.com/swarmproof/cairn-protocol)**
+> Standardized checkpoint & recovery for AI agents.
+
+Six-state machine · three-class failure taxonomy · ERC proposal. Live on Base Sepolia with 408 tests, SDK, CLI and subgraph.
+
+`Solidity` `Base Sepolia` `ERC` `SDK + CLI`
+
+</td>
+<td width="33%" valign="top">
 
 **[FinVerifyAI](https://github.com/MarouaBoud/finverify)**
 > AI-powered financial misinformation detection.
@@ -41,7 +55,7 @@ Six-stage Marathon Agent pipeline with transparent reasoning traces. Verified ag
 `TypeScript` `Next.js 15` `Gemini` `tRPC`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[eXpress402 / Sentifi](https://github.com/vhspace/eXpress402)**
 > Paid MCP server infra for AI agents.
@@ -53,6 +67,22 @@ Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo a
 </td>
 </tr>
 </table>
+
+<details open>
+<summary><b>🧰 Agent-reliability stack — seven tools under Swarm Proof</b></summary>
+<br/>
+
+| Tool | What it does |
+|---|---|
+| **[stampede](https://github.com/swarmproof/stampede)** | Wind tunnel for the agent economy — simulate a herd of realistic agents before the real ones arrive |
+| **[mockworld](https://github.com/swarmproof/mockworld)** | A synthetic internet for agents — fake Stripe, Gmail, exchange as instant MCP servers |
+| **[mcp-probe](https://github.com/swarmproof/mcp-probe)** | CI quality suite for MCP servers — lint, contract-test, benchmark, load-test |
+| **[costbomb](https://github.com/swarmproof/costbomb)** | Denial-of-wallet fuzzing — find the inputs that make your agent spend $500 |
+| **[exactly-once](https://github.com/swarmproof/exactly-once)** | Idempotency middleware — payments, emails and onchain txs fire once |
+| **[agent-postmortems](https://github.com/swarmproof/agent-postmortems)** | Structured incident database + post-mortem standard for agent failures |
+| **[awesome-agent-reliability](https://github.com/swarmproof/awesome-agent-reliability)** | The curated map of the agent-reliability field |
+
+</details>
 
 ---
 
