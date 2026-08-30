@@ -101,7 +101,6 @@ Dual payment rails: Yellow Network + Arc & Circle Gateway. Sentifi is the demo a
 </details>
 
 ---
----
 
 ## 🧠 Stack
 
