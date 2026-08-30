@@ -23,20 +23,15 @@
 
 ## ⚡ Currently shipping
 
+**[Swarm Proof](https://github.com/swarmproof)** — trust infrastructure for the agent economy. Open-source org, Apache-2.0.
+
+Flagship: **[CAIRN Protocol](https://github.com/swarmproof/cairn-protocol)** — standardized checkpoint & recovery for AI agents. Six-state machine · three-class failure taxonomy · ERC proposal · live on Base Sepolia · 408 tests, SDK + CLI + subgraph.
+
+Plus a seven-tool agent-reliability stack: [stampede](https://github.com/swarmproof/stampede) (adversarial agent "wind tunnel") · [mockworld](https://github.com/swarmproof/mockworld) (synthetic internet of mock MCP servers) · [mcp-probe](https://github.com/swarmproof/mcp-probe) (CI suite for MCP servers) · [costbomb](https://github.com/swarmproof/costbomb) (denial-of-wallet fuzzing) · [exactly-once](https://github.com/swarmproof/exactly-once) (idempotency middleware) · [agent-postmortems](https://github.com/swarmproof/agent-postmortems) (incident DB + standard) · [awesome-agent-reliability](https://github.com/swarmproof/awesome-agent-reliability) (field map).
+
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**[Cairn Protocol](https://github.com/MarouaBoud/cairn-protocol)**
-> Standardized checkpoint & recovery for AI agents.
-
-Six-state machine · three-class failure taxonomy · ERC proposal sketch. Tackles the silent-failure problem in production multi-agent systems at scale.
-
-`Python` `Agent infra` `ERC`
-
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[FinVerifyAI](https://github.com/MarouaBoud/finverify)**
 > AI-powered financial misinformation detection.
@@ -46,7 +41,7 @@ Six-stage Marathon Agent pipeline with transparent reasoning traces. Verified ag
 `TypeScript` `Next.js 15` `Gemini` `tRPC`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[eXpress402 / Sentifi](https://github.com/vhspace/eXpress402)**
 > Paid MCP server infra for AI agents.
