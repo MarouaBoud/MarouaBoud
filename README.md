@@ -251,31 +251,6 @@ MotherAI orchestration layer driving real-time in-game agent decision-making. Cu
 
 ---
 
-## 🌍 On the ground
-
-**In person — conferences & residencies**
-
-| Event | Location | Type |
-|---|---|---|
-| ETHGlobal San Francisco | 🇺🇸 San Francisco | Hackathon |
-| Edge City Esmeralda | 🇺🇸 San Francisco | Residency — World Fellow|
-| ETHGlobal Prague | 🇨🇿 Prague | Hackathon + Conference|
-| ETHGlobal Cannes | 🇫🇷 Cannes | Hackathon |
-| EthCC Cannes | 🇫🇷 Cannes | Conference |
-| ETHGlobal + Devconnect Buenos Aires | 🇦🇷 Buenos Aires | Hackathon + Conference |
-| Edge City Patagonia | 🇦🇷 Argentina | Residency |
-
-**Virtually**
-
-| Event | Result |
-|---|---|
-| ETHGlobal Virtual Hackathons | Multiple participations |
-| WorldBuild 1 | 🏆 Winner |
-
-
-
----
-
 ## 🔗 Connect
 
 <div align="center">
