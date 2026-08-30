@@ -70,5 +70,5 @@ Gradients are always `color=0:7C5CFC,100:00e5a0`. One-off accents (`ff6b6b`, `f5
 
 - Sections are separated by `---` and led by an emoji `##` heading.
 - `<details open>` for sections meant to be visible by default (hackathons, production systems, FinVerifyAI); plain `<details>` for deeper/older material (data engineering, secondary projects).
-- "Currently shipping" is a fixed three-column `<table>` with `width="33%"` cells — adding a fourth project means restructuring, not appending.
+- "Currently shipping" leads with a full-width featured block (Swarm Proof), followed by a two-column `<table>` with `width="50%"` cells. Cell widths are hardcoded, so adding or removing a card means restructuring the table, not appending a `<td>`.
 - Project entries pair a bold linked title, a `>` blockquote one-liner, a prose detail paragraph, and inline-code tech tags.
